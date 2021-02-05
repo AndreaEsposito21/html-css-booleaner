@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+/* COMMON */
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+/* HEADER */
+
+.background-header {
+  background-color: cornflowerblue;
+  background-image: url("../img/pattern.png");
+  background-size: 350px;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 30px;
+}
+
+/* HEADER END */
+
+/* MAIN */
+main {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 38px;
+  line-height: 37px;
+}
+/* MAIN END */
+
+/* FOOTER */
+/* FOOTER END */
